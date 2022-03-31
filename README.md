@@ -21,3 +21,4 @@ kubectl get node/aks-appsnodepool-93043827-vmss000000 -o json | jq '.metadata.la
 ```
 
 #### https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/kubernetes-nodepools-explained/ba-p/2531581
+#### https://www.udemy.com/course/kubernetes-best-practices/learn/lecture/27052386#questions/16458224
